@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/dao/ExamDAO.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/gui/SetPaperFrame.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/gui/SetQuestionFrame.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/gui/EditPaperFrame.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/gui/TakeTestFrame.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/gui/ChoosePaperFrame.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/dao/UserDAO.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/pojo/AnswerPojo.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/pojo/AnswerStorePojo.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/pojo/ExamPojo.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/dao/PerformanceDAO.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/gui/LoginFrame.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/gui/ChangePasswordFrame.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/pojo/PerformancePojo.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/gui/ViewStudentScoreFrame.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/dao/QuestionDAO.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/gui/StudentOptionFrame.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/pojo/StudentScore.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/pojo/QuestionPojo.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/gui/AdminOptionFrame.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/gui/ViewAllScoreFrame.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/pojo/UserPojo.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/gui/RegisterStudentFrame.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/pojo/UserProfile.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/pojo/QuestionStore.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/gui/EditQuestionsFrame.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/gui/ViewSingleScoreFrame.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/gui/ViewScoresFrame.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/TechQuizApp1/src/TechQuizAPP/gui/SplashScreenFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
